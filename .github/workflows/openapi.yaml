@@ -1,4 +1,4 @@
-name: API Document Hosting
+name: API Document
 
 on:
   push:
