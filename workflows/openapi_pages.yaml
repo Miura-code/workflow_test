@@ -3,7 +3,7 @@ name: API Document Hosting
 on:
   push:
     branches:
-      - feature/openapi
+      - main
   workflow_dispatch:
 
 jobs:
